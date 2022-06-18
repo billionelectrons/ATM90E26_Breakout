@@ -1,5 +1,4 @@
 name: Upload repository
-
 on:
   push:
     branches:
